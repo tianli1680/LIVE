@@ -1,503 +1,415 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="2025-08-19 04:36:22" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="列表更新时间",2025-08-19 04:36:22
+#EXTINF:-1 tvg-name="2025-08-19 06:35:53" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="列表更新时间",2025-08-19 06:35:53
 https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/time/time.mp4
 #EXTINF:-1 tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="4K频道",4K60PSDR-H264-AAC测试
 https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/sdr4kvideo/playlist.m3u8
 #EXTINF:-1 tvg-name="4K60PHLG-HEVC-EAC3测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="4K频道",4K60PHLG-HEVC-EAC3测试
 https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/hlg4kvideo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001812800270jnaz1w.jpg" group-title="情感杂谈", 06女大 进来看看吗
-https://mursor.ottiptv.cc/bilibili/1812800270
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000026626995e2bh5v.jpg" group-title="情感杂谈", 天黑请闭眼，预言家请行动
-https://mursor.ottiptv.cc/bilibili/26626995
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001849822898k15pka.jpg" group-title="情感杂谈", 进来就不是小朋友啦~
-https://mursor.ottiptv.cc/bilibili/1849822898
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350018143720933sqx7a.jpg" group-title="情感杂谈", 温馨提示 进入请带耳机
-https://mursor.ottiptv.cc/bilibili/1814372093
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001746171849m90kum.jpg" group-title="情感杂谈", 04 不懂事，哥哥还请见谅
-https://mursor.ottiptv.cc/bilibili/1746171849
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001724236811xqb0hv.jpg" group-title="情感杂谈", 睡不着，还是播吧！！！
-https://mursor.ottiptv.cc/bilibili/1724236811
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000027084776swacej.jpg" group-title="手工绘画", 【工作音】要4要4要4啦！！
-https://mursor.ottiptv.cc/bilibili/27084776
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000001143678hkzxbk.jpg" group-title="手工绘画", 两眼一睁就想两眼一闭
-https://mursor.ottiptv.cc/bilibili/1143678
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001811406370c90fs5.jpg" group-title="情感杂谈", 06 188 私教
-https://mursor.ottiptv.cc/bilibili/1811406370
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001986259107fhqhgg.jpg" group-title="情感杂谈", 【新v】别撞她了宝~看看我~
-https://mursor.ottiptv.cc/bilibili/1986259107
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe0819043500000886297328ag5y.jpg" group-title="手工绘画", 画画
-https://mursor.ottiptv.cc/bilibili/8862973
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000025609794anmz6a.jpg" group-title="生活杂谈", 无数难眠的夜晚
-https://mursor.ottiptv.cc/bilibili/25609794
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001866759566csfj0q.jpg" group-title="生活杂谈", 嘿嘿嘿嘿嘿
-https://mursor.ottiptv.cc/bilibili/1866759566
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000025248835xgm3vx.jpg" group-title="沉浸体验", 白噪音 24小时直播雨声助眠下雨天白噪声
-https://mursor.ottiptv.cc/bilibili/25248835
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000014495324966vzu.jpg" group-title="电子榨菜", 海绵宝宝 24H 自剪视频 右上有水印
-https://mursor.ottiptv.cc/bilibili/14495324
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000031636744oq1ee5.jpg" group-title="沉浸体验", 电子安眠药
-https://mursor.ottiptv.cc/bilibili/31636744
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350000079836465fl3sz.jpg" group-title="情感杂谈", 尊嘟没人嘛~
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000007983646n4c1jy.jpg" group-title="情感杂谈", 尊嘟没人嘛~
 https://mursor.ottiptv.cc/bilibili/7983646
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000012188597cd421x.jpg" group-title="沉浸体验", 【雨屋】睡眠减压放松白噪音
-https://mursor.ottiptv.cc/bilibili/12188597
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001912365048ypnrg9.jpg" group-title="沉浸体验", 在森林小屋中听雨，踏实睡个好觉吧
-https://mursor.ottiptv.cc/bilibili/1912365048
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000024984265vvs76i.jpg" group-title="沉浸体验", 就这里了，开睡
-https://mursor.ottiptv.cc/bilibili/24984265
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000027689788os3mhz.jpg" group-title="沉浸体验", 真实山雨声，入眠小助手
-https://mursor.ottiptv.cc/bilibili/27689788
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000022491717e3rmm5.jpg" group-title="生活杂谈", Mr迷瞪秋季家装节
-https://mursor.ottiptv.cc/bilibili/22491717
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000023536590gvizrh.jpg" group-title="生活杂谈", 说游戏科学1,000,000次
-https://mursor.ottiptv.cc/bilibili/23536590
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000024776948ywwj4w.jpg" group-title="沉浸体验", 【白噪音】雨声 | 助眠沉浸式白噪声
-https://mursor.ottiptv.cc/bilibili/24776948
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350000090567040rfuoa.jpg" group-title="情感杂谈", 大龄剩女为什么不愿意下嫁？
-https://mursor.ottiptv.cc/bilibili/9056704
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000027519423zo6l2k.jpg" group-title="生活杂谈", 学习工作背景音乐 24/7 自习室
-https://mursor.ottiptv.cc/bilibili/27519423
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350000044156426qq0ow.jpg" group-title="生活杂谈", 雅典大学堂第一门卫
-https://mursor.ottiptv.cc/bilibili/4415642
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001856106425jfbxi5.jpg" group-title="情感杂谈", 02反差~  想被奖励
-https://mursor.ottiptv.cc/bilibili/1856106425
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001799891631ltbgjx.jpg" group-title="生活杂谈", 大龄剩男大多是经济问题？
-https://mursor.ottiptv.cc/bilibili/1799891631
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000032593701vsgz3w.jpg" group-title="沉浸体验", 夏尔静谧：月光小屋，虫语助眠
-https://mursor.ottiptv.cc/bilibili/32593701
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000000056867ely4zg.jpg" group-title="手工绘画", 画刻律德菈
-https://mursor.ottiptv.cc/bilibili/56867
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350000008215142fi90y.jpg" group-title="运动体育", 英超 利兹联VS埃弗顿
-https://mursor.ottiptv.cc/bilibili/821514
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001982182980zdaqfx.jpg" group-title="沉浸体验", 【白噪音助眠】和小猫一起听雨
-https://mursor.ottiptv.cc/bilibili/1982182980
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000025941182r6rxtc.jpg" group-title="沉浸体验", 临近开学季 还有谁没搞机
-https://mursor.ottiptv.cc/bilibili/25941182
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000022689676eiuffe.jpg" group-title="沉浸体验", 云游火车
-https://mursor.ottiptv.cc/bilibili/22689676
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350000044315346s7vjh.jpg" group-title="手工绘画", 小pv我画似你
-https://mursor.ottiptv.cc/bilibili/4431534
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe0819043500002115672438bvtx.jpg" group-title="萌宠", 关注后弹幕投喂猫狗
-https://mursor.ottiptv.cc/bilibili/21156724
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001993743532miv3uw.jpg" group-title="生活杂谈", 遇事不决，请问扶摇。
-https://mursor.ottiptv.cc/bilibili/1993743532
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350000103844617sjisi.jpg" group-title="手工绘画", 这个月还有3单
-https://mursor.ottiptv.cc/bilibili/10384461
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350000236567866zhgw4.jpg" group-title="电子榨菜", 永葆童真！分享快乐！儿时回忆！
-https://mursor.ottiptv.cc/bilibili/23656786
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000003721770i2g4fd.jpg" group-title="手工绘画", 美院失业画师集资点拼好饭可点歌可聊天
-https://mursor.ottiptv.cc/bilibili/3721770
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001946289173fevics.jpg" group-title="手工绘画", 安全出口画师今天画点小摸鱼！
-https://mursor.ottiptv.cc/bilibili/1946289173
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000000666667hjpa7j.jpg" group-title="手工绘画", 我要变成画画高手！
-https://mursor.ottiptv.cc/bilibili/666667
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000032303437p80xl0.jpg" group-title="沉浸体验", 白噪音下雨声解压睡眠放松
-https://mursor.ottiptv.cc/bilibili/32303437
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001892863194n0fn7z.jpg" group-title="生活杂谈", 给小金刚视频收尾，明中午发
-https://mursor.ottiptv.cc/bilibili/1892863194
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000021769898egmh1p.jpg" group-title="沉浸体验", 我在吸引天地间的好运和福气！共享此刻福泽
-https://mursor.ottiptv.cc/bilibili/21769898
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001844419376fbalgf.jpg" group-title="手工绘画", 0基础学建模 接稿赚米
-https://mursor.ottiptv.cc/bilibili/1844419376
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001764696926bd15me.jpg" group-title="电子榨菜", 不做完不下播
-https://mursor.ottiptv.cc/bilibili/1764696926
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350000323852359zzbig.jpg" group-title="电子榨菜", 回家的诱惑（B站过审）
-https://mursor.ottiptv.cc/bilibili/32385235
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe0819043500183147866415r31c.jpg" group-title="手工绘画", 0基础学画画  副业赚米
-https://mursor.ottiptv.cc/bilibili/1831478664
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001809421678ndx8si.jpg" group-title="户外", 【24小时轮播】霞慕尼&amp;马德里攀岩世界杯
-https://mursor.ottiptv.cc/bilibili/1809421678
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350000227271741ua76z.jpg" group-title="户外", 松赞石月亮山居窗外实时直播
-https://mursor.ottiptv.cc/bilibili/22727174
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000023487207xconmk.jpg" group-title="手工绘画", 本子教程？狂喜
-https://mursor.ottiptv.cc/bilibili/23487207
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001735948178njazb5.jpg" group-title="情感杂谈", 06 进来看b站
-https://mursor.ottiptv.cc/bilibili/1735948178
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000031997120q7rrkr.jpg" group-title="手工绘画", 摸鱼画画第n+1天
-https://mursor.ottiptv.cc/bilibili/31997120
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001806919429qrzioe.jpg" group-title="情感杂谈", 就是你想的那样～
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001806919429bbfmny.jpg" group-title="情感杂谈", 就是你想的那样～
 https://mursor.ottiptv.cc/bilibili/1806919429
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000001146806nu0idq.jpg" group-title="手工绘画", 杭cp加把劲骑士
-https://mursor.ottiptv.cc/bilibili/1146806
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000005085748x7usj7.jpg" group-title="萌宠", 24小时沉浸式看鱼，白天解压，夜晚助眠
-https://mursor.ottiptv.cc/bilibili/5085748
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350018561037702ix9c5.jpg" group-title="情感杂谈", 本人露脸 就是你想的那样
-https://mursor.ottiptv.cc/bilibili/1856103770
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350017864104453zbk66.jpg" group-title="情感杂谈", 塔塔生活or智慧情感问题咨询可进~
-https://mursor.ottiptv.cc/bilibili/1786410445
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000021973570egki3e.jpg" group-title="情感杂谈", 看日柱分析性格，可看mbti
-https://mursor.ottiptv.cc/bilibili/21973570
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001886601424mdmh80.jpg" group-title="手工绘画", 画画timing
-https://mursor.ottiptv.cc/bilibili/1886601424
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000030677116y96akk.jpg" group-title="生活杂谈", 跑测试+装机！
-https://mursor.ottiptv.cc/bilibili/30677116
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350000005592429ndy18.jpg" group-title="运动体育", 路人王精彩赛事回顾
-https://mursor.ottiptv.cc/bilibili/559242
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190430000030694464s3t577.jpg" group-title="沉浸体验", 来眠咯
-https://mursor.ottiptv.cc/bilibili/30694464
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350000224312338yzoiq.jpg" group-title="手工绘画", 先棋后画！
-https://mursor.ottiptv.cc/bilibili/22431233
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000009390880hvs7ni.jpg" group-title="萌宠", 【慢直播云养鸟】宝宝鸡成长日记
-https://mursor.ottiptv.cc/bilibili/9390880
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001986465279i8tvsb.jpg" group-title="沉浸体验", 【雨屋】睡眠减压放松白噪音
-https://mursor.ottiptv.cc/bilibili/1986465279
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001729540086ioiez0.jpg" group-title="生活杂谈", 延禧宫略（B站过审）
-https://mursor.ottiptv.cc/bilibili/1729540086
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350000278189755iczbh.jpg" group-title="美食", 买点吧，挣钱有大用！俄罗斯联邦nice
-https://mursor.ottiptv.cc/bilibili/27818975
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001894869282ko4biy.jpg" group-title="沉浸体验", 全天侯|白噪声|雨声|助眠
-https://mursor.ottiptv.cc/bilibili/1894869282
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000013451771cxqg5a.jpg" group-title="电子榨菜", 随舞？启动！
-https://mursor.ottiptv.cc/bilibili/13451771
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000031913902wpz0he.jpg" group-title="电子榨菜", 虹猫蓝兔系列动画轮播
-https://mursor.ottiptv.cc/bilibili/31913902
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001786567353cm792z.jpg" group-title="萌宠", 金丝熊夜间陪伴
-https://mursor.ottiptv.cc/bilibili/1786567353
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000023474441hfsh3k.jpg" group-title="手工绘画", 夏季福利新班 素描快速提升直播课
-https://mursor.ottiptv.cc/bilibili/23474441
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000025306496twvc0t.jpg" group-title="生活杂谈", 门窗科普博主在线答疑
-https://mursor.ottiptv.cc/bilibili/25306496
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001861371474fews0u.jpg" group-title="运动体育", 象棋布局陷阱飞刀-出其不意，以弱胜强。
-https://mursor.ottiptv.cc/bilibili/1861371474
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000024543889kbaw8z.jpg" group-title="手工绘画", 水彩零基础教学 风景万能画法
-https://mursor.ottiptv.cc/bilibili/24543889
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000000174142cdgmg3.jpg" group-title="手工绘画", CG绘画知识小课堂
-https://mursor.ottiptv.cc/bilibili/174142
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000031486610ehzfsr.jpg" group-title="电子榨菜", 点点关注超多短剧等你来看
-https://mursor.ottiptv.cc/bilibili/31486610
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000000187336n8072g.jpg" group-title="手工绘画", 你们搞的这个直播啊，一颗晒听
-https://mursor.ottiptv.cc/bilibili/187336
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000021563298cbcxw0.jpg" group-title="生活杂谈", 我说大坝危机四伏你耳朵聋吗
-https://mursor.ottiptv.cc/bilibili/21563298
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350019932030491y1v90.jpg" group-title="萌宠", 没错的 就是你心里想的
-https://mursor.ottiptv.cc/bilibili/1993203049
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000026739064ca1qq0.jpg" group-title="手工绘画", 没人疼就画画，画完浑身疼
-https://mursor.ottiptv.cc/bilibili/26739064
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000032303671a2by68.jpg" group-title="情感杂谈", Ta对你的想法？情感疗愈
-https://mursor.ottiptv.cc/bilibili/32303671
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350017871282890e3ra0.jpg" group-title="生活杂谈", 一边。。。。。
-https://mursor.ottiptv.cc/bilibili/1787128289
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001820709465lxyb9l.jpg" group-title="电子榨菜", 有声书☞鬼吹灯 归墟
-https://mursor.ottiptv.cc/bilibili/1820709465
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000004325918ccw6bp.jpg" group-title="情感杂谈", 塔罗.情感等.3张看情况加1
-https://mursor.ottiptv.cc/bilibili/4325918
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001777488343emofbv.jpg" group-title="手工绘画", 画两笔吧，求求
-https://mursor.ottiptv.cc/bilibili/1777488343
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350000041315948p9v95.jpg" group-title="手工绘画", 【DAY BY DAY5】五官3
-https://mursor.ottiptv.cc/bilibili/4131594
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350018291895118f653w.jpg" group-title="情感杂谈", 爱溢出来了
-https://mursor.ottiptv.cc/bilibili/1829189511
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000025560027zq8f7k.jpg" group-title="手工绘画", 新人画师：产妇兼职主刀医生
-https://mursor.ottiptv.cc/bilibili/25560027
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000000379658ypi3sn.jpg" group-title="沉浸体验", 24小时宫崎骏 久石让音乐 学习 安眠
-https://mursor.ottiptv.cc/bilibili/379658
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001829187170tuliu3.jpg" group-title="情感杂谈", 喷就哭
-https://mursor.ottiptv.cc/bilibili/1829187170
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001908051138jdouj3.jpg" group-title="情感杂谈", 05 懂事 会玩
-https://mursor.ottiptv.cc/bilibili/1908051138
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001993208878t6afpe.jpg" group-title="情感杂谈", 近来解锁我的直播间的隐藏技能
-https://mursor.ottiptv.cc/bilibili/1993208878
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe0819043500188715813129hhzf.jpg" group-title="手工绘画", 画画练习稿
-https://mursor.ottiptv.cc/bilibili/1887158131
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000031201964scqdq0.jpg" group-title="电子榨菜", 牢猫加班代工
-https://mursor.ottiptv.cc/bilibili/31201964
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000001116485vr17ma.jpg" group-title="手工绘画", 画会
-https://mursor.ottiptv.cc/bilibili/1116485
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350000325072800xd96o.jpg" group-title="美食", 只要肯吃苦，就有吃不完的苦。—奥德彪
-https://mursor.ottiptv.cc/bilibili/32507280
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe0819043500002354733608qk5b.jpg" group-title="户外", 一起来看银河吧！！！
-https://mursor.ottiptv.cc/bilibili/23547336
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350000048602673irbxl.jpg" group-title="手工绘画", 您有3个合作将在1天后截稿
-https://mursor.ottiptv.cc/bilibili/4860267
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001916501564n8g23t.jpg" group-title="手工绘画", 边路边画
-https://mursor.ottiptv.cc/bilibili/1916501564
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000023745674j71jqx.jpg" group-title="情感杂谈", 恋爱，职场，心理，mbti咨询
-https://mursor.ottiptv.cc/bilibili/23745674
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000006188896yhjt3z.jpg" group-title="生活杂谈", 卡牌互动卧底游戏
-https://mursor.ottiptv.cc/bilibili/6188896
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001743352965fwr5ev.jpg" group-title="情感杂谈", 天亮了，预言家请报查验
-https://mursor.ottiptv.cc/bilibili/1743352965
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001831473052zukz0w.jpg" group-title="萌宠", 看大麦虫
-https://mursor.ottiptv.cc/bilibili/1831473052
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000026068695e7e5aa.jpg" group-title="电子榨菜", 随便看看~
-https://mursor.ottiptv.cc/bilibili/26068695
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001779343752tbeaxk.jpg" group-title="生活杂谈", 一起来聊天唱歌，随意上麦
-https://mursor.ottiptv.cc/bilibili/1779343752
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000000282504x506eo.jpg" group-title="户外", 徒手奶猫第十三天 你叫破喉咙也
-https://mursor.ottiptv.cc/bilibili/282504
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350000222038475vkn3f.jpg" group-title="萌宠", 小鸠鸠要起飞喽
-https://mursor.ottiptv.cc/bilibili/22203847
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001841880470szhjm0.jpg" group-title="情感杂谈", 塔罗 情感 免一
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001787125315guuwqt.jpg" group-title="情感杂谈", 新人主播，进来看看吧～
+https://mursor.ottiptv.cc/bilibili/1787125315
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001841880470dkwom6.jpg" group-title="情感杂谈", 塔罗 情感 免一
 https://mursor.ottiptv.cc/bilibili/1841880470
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000026256255uqxhi4.jpg" group-title="手工绘画", 练习绘画两年半的个人练习生
-https://mursor.ottiptv.cc/bilibili/26256255
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000027511104hzmtno.jpg" group-title="情感杂谈", 塔罗 情感 首关免
-https://mursor.ottiptv.cc/bilibili/27511104
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001980660325ajjdb8.jpg" group-title="情感杂谈", 用户3546951127665148的直播间
-https://mursor.ottiptv.cc/bilibili/1980660325
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001753193089r1zptx.jpg" group-title="情感杂谈", 你有什么问题想问我吗~情感塔罗
-https://mursor.ottiptv.cc/bilibili/1753193089
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001774976546gv952o.jpg" group-title="沉浸体验", 振钵之音  低频同步 放空自己
-https://mursor.ottiptv.cc/bilibili/1774976546
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000022378267050tge.jpg" group-title="手工绘画", 写小说！写写写写到厌倦
-https://mursor.ottiptv.cc/bilibili/22378267
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000009348981whpcwv.jpg" group-title="手工绘画", 你蒼夺舍了
-https://mursor.ottiptv.cc/bilibili/9348981
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000001323820yfpc0v.jpg" group-title="手工绘画", 道爷我成了
-https://mursor.ottiptv.cc/bilibili/1323820
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001996459023xe5dsv.jpg" group-title="手工绘画", 豪堪布
-https://mursor.ottiptv.cc/bilibili/1996459023
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000023264077bbooy7.jpg" group-title="手工绘画", 想永啊啊啊啊啊啊啊啊
-https://mursor.ottiptv.cc/bilibili/23264077
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe0819043500002139820778pxf1.jpg" group-title="手工绘画", 我是自愿上工的
-https://mursor.ottiptv.cc/bilibili/21398207
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000006280734h9d4jx.jpg" group-title="电子榨菜", 美国医学博士答疑，黑听闲聊留学健康助力
-https://mursor.ottiptv.cc/bilibili/6280734
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000027404696x4ux35.jpg" group-title="电子榨菜", 凤凰传奇全部歌曲24h循环播放
-https://mursor.ottiptv.cc/bilibili/27404696
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350018143732143hw0pg.jpg" group-title="电子榨菜", 没退款的原因是超过两小时了
-https://mursor.ottiptv.cc/bilibili/1814373214
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000032197187wnm7ow.jpg" group-title="手工绘画", 拼搏百天，我也要成为画画糕手
-https://mursor.ottiptv.cc/bilibili/32197187
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000031622932m4bbqi.jpg" group-title="生活杂谈", 【U】你不许喝奶茶了
-https://mursor.ottiptv.cc/bilibili/31622932
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350018069168037web5q.jpg" group-title="情感杂谈", 05   乖
-https://mursor.ottiptv.cc/bilibili/1806916803
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000026149403zyprpd.jpg" group-title="手工绘画", 画画 听歌 扯淡
-https://mursor.ottiptv.cc/bilibili/26149403
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000023107419hvsfo2.jpg" group-title="手工绘画", 夜间生物观察。
-https://mursor.ottiptv.cc/bilibili/23107419
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001993208495t94mod.jpg" group-title="电子榨菜", reaction՞• •՞无聊中
-https://mursor.ottiptv.cc/bilibili/1993208495
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000002313636qlnn5e.jpg" group-title="手工绘画", 画稿画完就去摸鱼
-https://mursor.ottiptv.cc/bilibili/2313636
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000004160644ieyc5h.jpg" group-title="手工绘画", 可喜可贺找回帐号了
-https://mursor.ottiptv.cc/bilibili/4160644
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001820334943waoj2z.jpg" group-title="沉浸体验", 雨声深度睡眠
-https://mursor.ottiptv.cc/bilibili/1820334943
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000001452595g6yjdg.jpg" group-title="手工绘画", 无偿电脑纯性价比配置单 专人专配非烂大街
-https://mursor.ottiptv.cc/bilibili/1452595
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000001858891feg5f1.jpg" group-title="手工绘画", 画画日常✿
-https://mursor.ottiptv.cc/bilibili/1858891
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350018291878302a02sb.jpg" group-title="手工绘画", 今天不再游戏了
-https://mursor.ottiptv.cc/bilibili/1829187830
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000025678132v1mmd5.jpg" group-title="沉浸体验", 睡不着，就进来冥想助眠，深度放松。
-https://mursor.ottiptv.cc/bilibili/25678132
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350000001732183ozy0b.jpg" group-title="手工绘画", 小漫画家开始了她勤奋的一天
-https://mursor.ottiptv.cc/bilibili/173218
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe0819043500177365619410sqae.jpg" group-title="手工绘画", 神秘炸麦播播间
-https://mursor.ottiptv.cc/bilibili/1773656194
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000004304661edf88e.jpg" group-title="手工绘画", 喝中药根治摸鱼症去了
-https://mursor.ottiptv.cc/bilibili/4304661
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001993200083dq2lbr.jpg" group-title="手工绘画", 今天画oc
-https://mursor.ottiptv.cc/bilibili/1993200083
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000013656337jrue2p.jpg" group-title="手工绘画", 注意力~注意力~都飞走吧~
-https://mursor.ottiptv.cc/bilibili/13656337
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001812802110htt2jm.jpg" group-title="沉浸体验", 雨声助眠
-https://mursor.ottiptv.cc/bilibili/1812802110
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000002170876k8rmsw.jpg" group-title="手工绘画", 精神状态最差的直播 要哄哄自己才能画画
-https://mursor.ottiptv.cc/bilibili/2170876
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000030049824mgy1xp.jpg" group-title="美食", 你见过真骆驼吗？
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000004415642laojfb.jpg" group-title="生活杂谈", 雅典大学堂第一门卫
+https://mursor.ottiptv.cc/bilibili/4415642
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000023575490t5n4eu.jpg" group-title="生活杂谈", 起床啦！起床啦！起床玩骑砍了
+https://mursor.ottiptv.cc/bilibili/23575490
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001986259107k7j255.jpg" group-title="情感杂谈", 【新v】别撞她了宝~看看我~
+https://mursor.ottiptv.cc/bilibili/1986259107
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000025248835xh3cus.jpg" group-title="沉浸体验", 白噪音 24小时直播雨声助眠下雨天白噪声
+https://mursor.ottiptv.cc/bilibili/25248835
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000031636744br8p03.jpg" group-title="沉浸体验", 电子安眠药
+https://mursor.ottiptv.cc/bilibili/31636744
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000014495324ti9cqz.jpg" group-title="电子榨菜", 海绵宝宝 24H 自剪视频 右上有水印
+https://mursor.ottiptv.cc/bilibili/14495324
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350000121885977zbvbb.jpg" group-title="沉浸体验", 【雨屋】睡眠减压放松白噪音
+https://mursor.ottiptv.cc/bilibili/12188597
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001912365048296aet.jpg" group-title="沉浸体验", 在森林小屋中听雨，踏实睡个好觉吧
+https://mursor.ottiptv.cc/bilibili/1912365048
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350000276897885sra77.jpg" group-title="沉浸体验", 真实山雨声，入眠小助手
+https://mursor.ottiptv.cc/bilibili/27689788
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350000224917170fzn92.jpg" group-title="生活杂谈", Mr迷瞪秋季家装节
+https://mursor.ottiptv.cc/bilibili/22491717
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000024984265b2kzpq.jpg" group-title="沉浸体验", 就这里了，开睡
+https://mursor.ottiptv.cc/bilibili/24984265
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000023536590osrwae.jpg" group-title="生活杂谈", 说游戏科学1,000,000次
+https://mursor.ottiptv.cc/bilibili/23536590
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000025659082slf461.jpg" group-title="生活杂谈", 河北女大返校倒计时8天
+https://mursor.ottiptv.cc/bilibili/25659082
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000027519423sn6qr9.jpg" group-title="生活杂谈", 学习工作背景音乐 24/7 自习室
+https://mursor.ottiptv.cc/bilibili/27519423
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000009056704a1ynxb.jpg" group-title="情感杂谈", 大龄剩女为什么不愿意下嫁？
+https://mursor.ottiptv.cc/bilibili/9056704
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000024776948ooulmd.jpg" group-title="沉浸体验", 【白噪音】雨声 | 助眠沉浸式白噪声
+https://mursor.ottiptv.cc/bilibili/24776948
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350000230334097lg13o.jpg" group-title="生活杂谈", 呱呱旦
+https://mursor.ottiptv.cc/bilibili/23033409
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001856106425wuhic0.jpg" group-title="情感杂谈", 02反差~  想被奖励
+https://mursor.ottiptv.cc/bilibili/1856106425
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001799891631x7zt8z.jpg" group-title="生活杂谈", 大龄剩男大多是经济问题？
+https://mursor.ottiptv.cc/bilibili/1799891631
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000032593701k120gd.jpg" group-title="沉浸体验", 夏尔静谧：月光小屋，虫语助眠
+https://mursor.ottiptv.cc/bilibili/32593701
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350019821829800ip6ep.jpg" group-title="沉浸体验", 【白噪音助眠】和小猫一起听雨
+https://mursor.ottiptv.cc/bilibili/1982182980
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350000259411820l1jfg.jpg" group-title="沉浸体验", 临近开学季 还有谁没搞机
+https://mursor.ottiptv.cc/bilibili/25941182
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001852501680a24zzg.jpg" group-title="情感杂谈", 【李家观观】全职塔罗情感疗愈首关免一问
+https://mursor.ottiptv.cc/bilibili/1852501680
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000021156724lw9ktr.jpg" group-title="萌宠", 关注后弹幕投喂猫狗
+https://mursor.ottiptv.cc/bilibili/21156724
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001849822898kqjg7h.jpg" group-title="情感杂谈", 进来就不是小朋友啦~
+https://mursor.ottiptv.cc/bilibili/1849822898
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000003721770zcnkn3.jpg" group-title="手工绘画", 美院失业画师集资点拼好饭可点歌可聊天
+https://mursor.ottiptv.cc/bilibili/3721770
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001892863194yt33nf.jpg" group-title="生活杂谈", 给小金刚视频收尾，明中午发
+https://mursor.ottiptv.cc/bilibili/1892863194
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000023656786j8kj1w.jpg" group-title="电子榨菜", 永葆童真！分享快乐！儿时回忆！
+https://mursor.ottiptv.cc/bilibili/23656786
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000021769898r8j6c2.jpg" group-title="沉浸体验", 我在吸引天地间的好运和福气！共享此刻福泽
+https://mursor.ottiptv.cc/bilibili/21769898
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000022689676cc0xi3.jpg" group-title="沉浸体验", 云游火车
+https://mursor.ottiptv.cc/bilibili/22689676
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350000044315342zmzym.jpg" group-title="手工绘画", 小pv我画似你
+https://mursor.ottiptv.cc/bilibili/4431534
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000022116362hk81uq.jpg" group-title="运动体育", 五形气功跟练
+https://mursor.ottiptv.cc/bilibili/22116362
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350000323034376kn6p4.jpg" group-title="沉浸体验", 白噪音下雨声解压睡眠放松
+https://mursor.ottiptv.cc/bilibili/32303437
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001844419376plzxyf.jpg" group-title="手工绘画", 0基础学建模 接稿赚米
+https://mursor.ottiptv.cc/bilibili/1844419376
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe0819063500003238523508wkxt.jpg" group-title="电子榨菜", 回家的诱惑（B站过审）
+https://mursor.ottiptv.cc/bilibili/32385235
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350018314786645cfde2.jpg" group-title="手工绘画", 0基础学画画  副业赚米
+https://mursor.ottiptv.cc/bilibili/1831478664
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001809421678sv6hl6.jpg" group-title="户外", 【24小时轮播】霞慕尼&amp;马德里攀岩世界杯
+https://mursor.ottiptv.cc/bilibili/1809421678
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000022727174zavsk0.jpg" group-title="户外", 松赞石月亮山居窗外实时直播
+https://mursor.ottiptv.cc/bilibili/22727174
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe0819063500002348720730204t.jpg" group-title="手工绘画", 本子教程？狂喜
+https://mursor.ottiptv.cc/bilibili/23487207
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000031997120mbh12u.jpg" group-title="手工绘画", 摸鱼画画第n+1天
+https://mursor.ottiptv.cc/bilibili/31997120
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000001146806vii5ef.jpg" group-title="手工绘画", 杭cp加把劲骑士
+https://mursor.ottiptv.cc/bilibili/1146806
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000005085748elegrw.jpg" group-title="萌宠", 24小时沉浸式看鱼，白天解压，夜晚助眠
+https://mursor.ottiptv.cc/bilibili/5085748
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001786410445hfcqik.jpg" group-title="情感杂谈", 塔塔生活or智慧情感问题咨询可进~
+https://mursor.ottiptv.cc/bilibili/1786410445
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350000005592429mk9un.jpg" group-title="运动体育", 路人王精彩赛事回顾
+https://mursor.ottiptv.cc/bilibili/559242
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000009390880cfqq3q.jpg" group-title="萌宠", 【慢直播云养鸟】宝宝鸡成长日记
+https://mursor.ottiptv.cc/bilibili/9390880
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350000224312332ia1as.jpg" group-title="手工绘画", 先棋后画！
+https://mursor.ottiptv.cc/bilibili/22431233
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350019864652795r8exv.jpg" group-title="沉浸体验", 【雨屋】睡眠减压放松白噪音
+https://mursor.ottiptv.cc/bilibili/1986465279
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350000134517713cehhp.jpg" group-title="电子榨菜", 随舞？启动！
+https://mursor.ottiptv.cc/bilibili/13451771
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001894869282e1u4v7.jpg" group-title="沉浸体验", 全天侯|白噪声|雨声|助眠
+https://mursor.ottiptv.cc/bilibili/1894869282
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000027818975ih0702.jpg" group-title="美食", 买点吧，挣钱有大用！俄罗斯联邦nice
+https://mursor.ottiptv.cc/bilibili/27818975
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000030677116fubdz8.jpg" group-title="生活杂谈", 跑测试+装机！
+https://mursor.ottiptv.cc/bilibili/30677116
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350018613714746portx.jpg" group-title="运动体育", 象棋布局陷阱飞刀-出其不意，以弱胜强。
+https://mursor.ottiptv.cc/bilibili/1861371474
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000031913902pr5c45.jpg" group-title="电子榨菜", 虹猫蓝兔系列动画轮播
+https://mursor.ottiptv.cc/bilibili/31913902
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001729540086c76c7c.jpg" group-title="生活杂谈", 延禧宫略（B站过审）
+https://mursor.ottiptv.cc/bilibili/1729540086
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000025306496rwnjjl.jpg" group-title="生活杂谈", 门窗科普博主在线答疑
+https://mursor.ottiptv.cc/bilibili/25306496
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001786567353p4b89y.jpg" group-title="萌宠", 金丝熊夜间陪伴
+https://mursor.ottiptv.cc/bilibili/1786567353
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000023474441brh5ti.jpg" group-title="手工绘画", 夏季福利新班 素描快速提升直播课
+https://mursor.ottiptv.cc/bilibili/23474441
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000000174142t4ou42.jpg" group-title="手工绘画", CG绘画知识小课堂
+https://mursor.ottiptv.cc/bilibili/174142
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000031486610ip8dfi.jpg" group-title="电子榨菜", 点点关注超多短剧等你来看
+https://mursor.ottiptv.cc/bilibili/31486610
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000024543889ytmf9p.jpg" group-title="手工绘画", 水彩零基础教学 风景万能画法
+https://mursor.ottiptv.cc/bilibili/24543889
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000027084776ecggoz.jpg" group-title="手工绘画", 【工作音】要4要4要4啦！！
+https://mursor.ottiptv.cc/bilibili/27084776
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906300018291871701fhfvf.jpg" group-title="情感杂谈", 喷就哭
+https://mursor.ottiptv.cc/bilibili/1829187170
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000021563298at986u.jpg" group-title="生活杂谈", 我说大坝危机四伏你耳朵聋吗
+https://mursor.ottiptv.cc/bilibili/21563298
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001820709465do9ysh.jpg" group-title="电子榨菜", 有声书☞鬼吹灯 归墟
+https://mursor.ottiptv.cc/bilibili/1820709465
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001746176475gk979q.jpg" group-title="情感杂谈", 就是你想的那样
+https://mursor.ottiptv.cc/bilibili/1746176475
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000003259503m18umq.jpg" group-title="手工绘画", 我爱龙娘!（画稿子）
+https://mursor.ottiptv.cc/bilibili/3259503
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350000041315940y6xfk.jpg" group-title="手工绘画", 【DAY BY DAY5】五官3
+https://mursor.ottiptv.cc/bilibili/4131594
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000000379658pycvq6.jpg" group-title="沉浸体验", 24小时宫崎骏 久石让音乐 学习 安眠
+https://mursor.ottiptv.cc/bilibili/379658
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000023586364zwdnw9.jpg" group-title="美食", 萌新驾到！多多指教！
+https://mursor.ottiptv.cc/bilibili/23586364
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000001139553hz7uiy.jpg" group-title="手工绘画", !@#U^!@#*!@&amp;'
+https://mursor.ottiptv.cc/bilibili/1139553
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001993208878g76w6r.jpg" group-title="情感杂谈", 近来解锁我的直播间的隐藏技能
+https://mursor.ottiptv.cc/bilibili/1993208878
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000024108624xq7a3q.jpg" group-title="生活杂谈", 英雄无敌3 sod 全不禁 VS 阿辽
+https://mursor.ottiptv.cc/bilibili/24108624
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000008077893n2oxj2.jpg" group-title="手工绘画", 刷到我就去画画
+https://mursor.ottiptv.cc/bilibili/8077893
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350000325072805t3ylm.jpg" group-title="美食", 只要肯吃苦，就有吃不完的苦。—奥德彪
+https://mursor.ottiptv.cc/bilibili/32507280
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001916501564d1tt23.jpg" group-title="手工绘画", 边路边画
+https://mursor.ottiptv.cc/bilibili/1916501564
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000004860267vrizjo.jpg" group-title="手工绘画", 您有3个合作将在1天后截稿
+https://mursor.ottiptv.cc/bilibili/4860267
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001884224719wkb9dx.jpg" group-title="情感杂谈", 人生大剧透
+https://mursor.ottiptv.cc/bilibili/1884224719
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350000080425640wi4vm.jpg" group-title="手工绘画", 柠檬茶和奶茶相比
+https://mursor.ottiptv.cc/bilibili/8042564
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001831473052k61ggv.jpg" group-title="萌宠", 看大麦虫
+https://mursor.ottiptv.cc/bilibili/1831473052
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000030049824xfx80y.jpg" group-title="美食", 你见过真骆驼吗？
 https://mursor.ottiptv.cc/bilibili/30049824
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000011235702wfvqpq.jpg" group-title="户外", 24小时慢直播，济南泉城广场大明湖经十路
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000022203847ruqpq6.jpg" group-title="萌宠", 小鸠鸠要起飞喽
+https://mursor.ottiptv.cc/bilibili/22203847
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000000282504sq8xz2.jpg" group-title="户外", 徒手奶猫第十三天 你叫破喉咙也
+https://mursor.ottiptv.cc/bilibili/282504
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001806917403mmvyv2.jpg" group-title="生活杂谈", 一边。。。，一边
+https://mursor.ottiptv.cc/bilibili/1806917403
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350000093489810cu2np.jpg" group-title="手工绘画", 你蒼夺舍了
+https://mursor.ottiptv.cc/bilibili/9348981
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350000027677272au8p5.jpg" group-title="手工绘画", 绘画日常
+https://mursor.ottiptv.cc/bilibili/2767727
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350000321971878e5cc3.jpg" group-title="手工绘画", 拼搏百天，我也要成为画画糕手
+https://mursor.ottiptv.cc/bilibili/32197187
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001980660325b3r680.jpg" group-title="情感杂谈", 用户3546951127665148的直播间
+https://mursor.ottiptv.cc/bilibili/1980660325
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000006280734az2e7u.jpg" group-title="电子榨菜", 美国医学博士答疑，黑听闲聊留学健康助力
+https://mursor.ottiptv.cc/bilibili/6280734
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000021398207zh0gth.jpg" group-title="手工绘画", 我是自愿上工的
+https://mursor.ottiptv.cc/bilibili/21398207
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350019964590239o4frk.jpg" group-title="手工绘画", 豪堪布
+https://mursor.ottiptv.cc/bilibili/1996459023
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350017070017576q0f7b.jpg" group-title="手工绘画", 欠债167亿大小姐在线画画赚钱
+https://mursor.ottiptv.cc/bilibili/1707001757
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350000112357028ueoha.jpg" group-title="户外", 24小时慢直播，济南泉城广场大明湖经十路
 https://mursor.ottiptv.cc/bilibili/11235702
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001920263354z1zut5.jpg" group-title="电子榨菜", 点击头像观看全集
-https://mursor.ottiptv.cc/bilibili/1920263354
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000026334331fw9s68.jpg" group-title="手工绘画", 磨洋工
-https://mursor.ottiptv.cc/bilibili/26334331
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000022405913gu7uso.jpg" group-title="手工绘画", 正极画材专场
-https://mursor.ottiptv.cc/bilibili/22405913
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000005983722j2i260.jpg" group-title="手工绘画", 早啊
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000005983722yhlty9.jpg" group-title="手工绘画", 早啊
 https://mursor.ottiptv.cc/bilibili/5983722
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000032385178prejwc.jpg" group-title="手工绘画", 自学画画中
-https://mursor.ottiptv.cc/bilibili/32385178
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000026956963aoyk0e.jpg" group-title="手工绘画", 备战mhs
-https://mursor.ottiptv.cc/bilibili/26956963
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350000227047631gjspk.jpg" group-title="萌宠", 布偶 全国可以去新家
-https://mursor.ottiptv.cc/bilibili/22704763
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000026901360uvv4vg.jpg" group-title="生活杂谈", 拉拉看拉拉
-https://mursor.ottiptv.cc/bilibili/26901360
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000003079064vk963i.jpg" group-title="手工绘画", 宝子交个画友吗
-https://mursor.ottiptv.cc/bilibili/3079064
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001746170363amykip.jpg" group-title="萌宠", 小鸡保安立正了“小太阳鹦鹉鸟”
-https://mursor.ottiptv.cc/bilibili/1746170363
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001738569546s0vazc.jpg" group-title="萌宠", 桌面鱼缸
-https://mursor.ottiptv.cc/bilibili/1738569546
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000023179432zdqicg.jpg" group-title="沉浸体验", 1
-https://mursor.ottiptv.cc/bilibili/23179432
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000030044554zjwv9j.jpg" group-title="美食", 俄罗斯最后的单纯，正品俄货
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000030044554zs0kro.jpg" group-title="美食", 俄罗斯最后的单纯，正品俄货
 https://mursor.ottiptv.cc/bilibili/30044554
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001972733078jrr22i.jpg" group-title="手工绘画", 画一会画
-https://mursor.ottiptv.cc/bilibili/1972733078
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001738677291c1zuah.jpg" group-title="手工绘画", 看我不动就直接骂死我
-https://mursor.ottiptv.cc/bilibili/1738677291
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350000130436311gd5qq.jpg" group-title="沉浸体验", 无聊的更新
-https://mursor.ottiptv.cc/bilibili/13043631
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000023876760it5jm5.jpg" group-title="手工绘画", 钢笔淡彩入门与精通
-https://mursor.ottiptv.cc/bilibili/23876760
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000025838345en6bqh.jpg" group-title="手工绘画", 画老板的设子
-https://mursor.ottiptv.cc/bilibili/25838345
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000002498946qtkfgn.jpg" group-title="萌宠", 发送弹幕控制摄像头看哈基mini
-https://mursor.ottiptv.cc/bilibili/2498946
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000025144281579hra.jpg" group-title="手工绘画", 五伏第242图|3D 打印建模定制涂装
-https://mursor.ottiptv.cc/bilibili/25144281
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000009915349vcfz6m.jpg" group-title="电子榨菜", 恐鬼大食堂，有菜你就来
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001774976546vta44m.jpg" group-title="沉浸体验", 振钵之音  低频同步 放空自己
+https://mursor.ottiptv.cc/bilibili/1774976546
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000001858891612k05.jpg" group-title="手工绘画", 画画日常✿
+https://mursor.ottiptv.cc/bilibili/1858891
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000027404696dkn744.jpg" group-title="电子榨菜", 凤凰传奇全部歌曲24h循环播放
+https://mursor.ottiptv.cc/bilibili/27404696
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000003079064wut3kz.jpg" group-title="手工绘画", 宝子交个画友吗
+https://mursor.ottiptv.cc/bilibili/3079064
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000013656337g2lmxy.jpg" group-title="手工绘画", 注意力~注意力~都飞走吧~
+https://mursor.ottiptv.cc/bilibili/13656337
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000009915349flhqjg.jpg" group-title="电子榨菜", 恐鬼大食堂，有菜你就来
 https://mursor.ottiptv.cc/bilibili/9915349
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350000221602283l9m08.jpg" group-title="户外", 美亚柏科培训大楼海景直播
-https://mursor.ottiptv.cc/bilibili/22160228
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe0819043500002408838256vo8r.jpg" group-title="手工绘画", 让能力飞速提升的清美素描课
-https://mursor.ottiptv.cc/bilibili/24088382
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350019375794917dkrz6.jpg" group-title="生活杂谈", 想和你去月球
-https://mursor.ottiptv.cc/bilibili/1937579491
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe0819043500187197064038fruf.jpg" group-title="手工绘画", 摸个鱼先
-https://mursor.ottiptv.cc/bilibili/1871970640
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001866756265yilr1n.jpg" group-title="沉浸体验", 电子安眠药，深夜雨声白噪音宠
-https://mursor.ottiptv.cc/bilibili/1866756265
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000024556867mzr5qe.jpg" group-title="手工绘画", 零基础学水彩风景绘画
-https://mursor.ottiptv.cc/bilibili/24556867
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000025836564xxnonw.jpg" group-title="情感杂谈", 情感塔罗
-https://mursor.ottiptv.cc/bilibili/25836564
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000025578530yob8cm.jpg" group-title="手工绘画", Apple u 画画把笔给一下撒
-https://mursor.ottiptv.cc/bilibili/25578530
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001993201142ume935.jpg" group-title="沉浸体验", 萌新驾到，多多指教！
-https://mursor.ottiptv.cc/bilibili/1993201142
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000014456819z1m3pf.jpg" group-title="手工绘画", 底层萌新学画画（
-https://mursor.ottiptv.cc/bilibili/14456819
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001861371393guihtb.jpg" group-title="手工绘画", 0基础学画画  副业赚米
-https://mursor.ottiptv.cc/bilibili/1861371393
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000026897308oe74si.jpg" group-title="手工绘画", 摸——鱼——画——稿——
-https://mursor.ottiptv.cc/bilibili/26897308
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe0819043500198511160526iase.jpg" group-title="沉浸体验", 试看三分钟
-https://mursor.ottiptv.cc/bilibili/1985111605
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000024990813p7wrb7.jpg" group-title="萌宠", 云喂鱼-点赞投喂（限量）
-https://mursor.ottiptv.cc/bilibili/24990813
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001806914446690m98.jpg" group-title="萌宠", 猫咪治愈-猫咪和汤
-https://mursor.ottiptv.cc/bilibili/1806914446
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001935447527ubu63t.jpg" group-title="手工绘画", 猫在画画
-https://mursor.ottiptv.cc/bilibili/1935447527
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001787124919smdi7l.jpg" group-title="手工绘画", cpsp拉磨小工
-https://mursor.ottiptv.cc/bilibili/1787124919
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000025624742m95jmu.jpg" group-title="沉浸体验", 下雨了
-https://mursor.ottiptv.cc/bilibili/25624742
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350000301290630f0jys.jpg" group-title="美食", 下一单介绍闺蜜？
-https://mursor.ottiptv.cc/bilibili/30129063
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000024337693wdkuk4.jpg" group-title="手工绘画", 自律失败（接着自律
-https://mursor.ottiptv.cc/bilibili/24337693
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000027465579zb2b8h.jpg" group-title="沉浸体验", 我也不知道为什么。。
-https://mursor.ottiptv.cc/bilibili/27465579
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350017357300635fu0bm.jpg" group-title="生活杂谈", 滑铲081925
-https://mursor.ottiptv.cc/bilibili/1735730063
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000023571068ipcztp.jpg" group-title="手工绘画", 画画陪伴成长
-https://mursor.ottiptv.cc/bilibili/23571068
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350000001270581dxjzt.jpg" group-title="手工绘画", 失踪人口回归，大人再爱我一次
-https://mursor.ottiptv.cc/bilibili/127058
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000032053760ssdwv2.jpg" group-title="电子榨菜", 剪澳门vlog
-https://mursor.ottiptv.cc/bilibili/32053760
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001884960678mctr61.jpg" group-title="户外", 鸣沙山月牙泉实时直播
-https://mursor.ottiptv.cc/bilibili/1884960678
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000022636096xm2i3v.jpg" group-title="手工绘画", 开工
-https://mursor.ottiptv.cc/bilibili/22636096
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000027184859j03o1e.jpg" group-title="萌宠", 看鸟(早晨傍晚鸟多)偶尔有松鼠
-https://mursor.ottiptv.cc/bilibili/27184859
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000006913120vwrp6q.jpg" group-title="运动体育", 悠悠球公司直播间
-https://mursor.ottiptv.cc/bilibili/6913120
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000030206484tqlrqa.jpg" group-title="户外", SHMN 浙西流星监测
-https://mursor.ottiptv.cc/bilibili/30206484
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001951548233x49ozb.jpg" group-title="沉浸体验", 超好吃的腊香肠
-https://mursor.ottiptv.cc/bilibili/1951548233
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350000245136305in3r5.jpg" group-title="手工绘画", 零基础学素描头像绘画
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe0819063500002451363092f5q1.jpg" group-title="手工绘画", 零基础学素描头像绘画
 https://mursor.ottiptv.cc/bilibili/24513630
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe0819043500000310445712jrxi.jpg" group-title="手工绘画", 3DMAX卡通房子建模教学
-https://mursor.ottiptv.cc/bilibili/3104457
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350000074316459cbn4f.jpg" group-title="萌宠", 【大黄和小灰】赛博兔兔窝
-https://mursor.ottiptv.cc/bilibili/7431645
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000006589350xkjwj4.jpg" group-title="萌宠", 治愈小草坪,主养草(穷玩)，工具鱼虾螺
-https://mursor.ottiptv.cc/bilibili/6589350
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000030381456ksbt9t.jpg" group-title="萌宠", 小鸡努力赚粮 亚马逊，折衷，金太阳 海外
-https://mursor.ottiptv.cc/bilibili/30381456
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350018617878494uc6g7.jpg" group-title="电子榨菜", 19元222G超大流量卡手机卡全国通用
-https://mursor.ottiptv.cc/bilibili/1861787849
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000000467815iorote.jpg" group-title="手工绘画", 无聊不知道干什么中
-https://mursor.ottiptv.cc/bilibili/467815
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001849824076jch1ip.jpg" group-title="沉浸体验", 一起来沉浸睡觉吧！
-https://mursor.ottiptv.cc/bilibili/1849824076
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000002804116z6ahse.jpg" group-title="手工绘画", galgame制作中
-https://mursor.ottiptv.cc/bilibili/2804116
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001820904843i177eg.jpg" group-title="生活杂谈", 就连睡觉也要摸鱼吗？
-https://mursor.ottiptv.cc/bilibili/1820904843
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000001012628jmldrh.jpg" group-title="手工绘画", 现在是画画时间
-https://mursor.ottiptv.cc/bilibili/1012628
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000031832232qcxg7q.jpg" group-title="手工绘画", 计时
-https://mursor.ottiptv.cc/bilibili/31832232
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350000053013662aini5.jpg" group-title="手工绘画", 画两笔就下播
-https://mursor.ottiptv.cc/bilibili/5301366
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000009119922huwjx7.jpg" group-title="萌宠", 猫猫队在线拆家/打滚儿/追跑打闹/睡大觉
-https://mursor.ottiptv.cc/bilibili/9119922
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000022325806apxyo0.jpg" group-title="户外", 高崖子天文台全天系统
-https://mursor.ottiptv.cc/bilibili/22325806
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000023689567oz1f6d.jpg" group-title="萌宠", 24H云吸猫—美短猫舍
-https://mursor.ottiptv.cc/bilibili/23689567
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001842749783ac1hpr.jpg" group-title="沉浸体验", 初来报道，关注一下吧~
-https://mursor.ottiptv.cc/bilibili/1842749783
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000025016780f15vvp.jpg" group-title="手工绘画", 零基础学高级灰色彩
-https://mursor.ottiptv.cc/bilibili/25016780
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000000099817biqfvf.jpg" group-title="手工绘画", 生活太顺就画画
-https://mursor.ottiptv.cc/bilibili/99817
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350018643880732a899e.jpg" group-title="手工绘画", 大毛说这样会被打鼠
-https://mursor.ottiptv.cc/bilibili/1864388073
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350000086648280cojlm.jpg" group-title="手工绘画", 从零开始的异世界画画生活
-https://mursor.ottiptv.cc/bilibili/8664828
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000032452977rvbe8q.jpg" group-title="美食", 今天洗头了，打败全国99%的主播
-https://mursor.ottiptv.cc/bilibili/32452977
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001949986548t6e7sh.jpg" group-title="手工绘画", 我画画慢的和爬似的
-https://mursor.ottiptv.cc/bilibili/1949986548
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350000032079444ydwul.jpg" group-title="手工绘画", 说是再敢画同人就找人弄你
-https://mursor.ottiptv.cc/bilibili/3207944
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000030487299womcxu.jpg" group-title="户外", 丽江玉龙雪山，大研古城全景，实时风景直播
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001812802110v0i0ph.jpg" group-title="沉浸体验", 雨声助眠
+https://mursor.ottiptv.cc/bilibili/1812802110
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe0819063500003001485188h3qt.jpg" group-title="沉浸体验", 播会...
+https://mursor.ottiptv.cc/bilibili/30014851
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350017385695462313su.jpg" group-title="萌宠", 桌面鱼缸
+https://mursor.ottiptv.cc/bilibili/1738569546
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000025624742jv9p9f.jpg" group-title="沉浸体验", 下雨了
+https://mursor.ottiptv.cc/bilibili/25624742
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350000232640773u7snp.jpg" group-title="手工绘画", 想永啊啊啊啊啊啊啊啊
+https://mursor.ottiptv.cc/bilibili/23264077
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000031291675t7rwrf.jpg" group-title="手工绘画", 画累了，所以画会儿画休息一下。
+https://mursor.ottiptv.cc/bilibili/31291675
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe0819063500174617036390qs3o.jpg" group-title="萌宠", 小鸡保安立正了“小太阳鹦鹉鸟”
+https://mursor.ottiptv.cc/bilibili/1746170363
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe0819063500000524774282vy9b.jpg" group-title="生活杂谈", 直播焊接
+https://mursor.ottiptv.cc/bilibili/5247742
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe0819063500003048729930qne4.jpg" group-title="户外", 丽江玉龙雪山，大研古城全景，实时风景直播
 https://mursor.ottiptv.cc/bilibili/30487299
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000023913893nidla9.jpg" group-title="手工绘画", voron 2.4 3D打印ing
-https://mursor.ottiptv.cc/bilibili/23913893
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000031586088xt1koa.jpg" group-title="沉浸体验", 嘘……无用之用。
-https://mursor.ottiptv.cc/bilibili/31586088
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001993201520mr46mx.jpg" group-title="萌宠", 首次开播，请多关照！
-https://mursor.ottiptv.cc/bilibili/1993201520
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe0819043500000351963800n9yw.jpg" group-title="萌宠", 蚂蚁饲养的日常
-https://mursor.ottiptv.cc/bilibili/3519638
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001805403128y7bu4f.jpg" group-title="手工绘画", 不动就是寄了
-https://mursor.ottiptv.cc/bilibili/1805403128
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe0819043500199320307477lcpp.jpg" group-title="萌宠", 交友聊天，组队dd
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350017461472736c9w1r.jpg" group-title="运动体育", 马甲线已经若隐若现，离我的目标还远吗？
+https://mursor.ottiptv.cc/bilibili/1746147273
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350018561046061fzx4l.jpg" group-title="情感杂谈", 不懂扣6
+https://mursor.ottiptv.cc/bilibili/1856104606
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000022405913r0x10s.jpg" group-title="手工绘画", 正极画材专场
+https://mursor.ottiptv.cc/bilibili/22405913
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000026149403iw1ymy.jpg" group-title="手工绘画", 画画 听歌 扯淡
+https://mursor.ottiptv.cc/bilibili/26149403
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000024088382a7pwyy.jpg" group-title="手工绘画", 让能力飞速提升的清美素描课
+https://mursor.ottiptv.cc/bilibili/24088382
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000001452595t9gpkm.jpg" group-title="手工绘画", 无偿电脑纯性价比配置单 专人专配非烂大街
+https://mursor.ottiptv.cc/bilibili/1452595
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001920263354cp7pak.jpg" group-title="电子榨菜", 点击头像观看全集
+https://mursor.ottiptv.cc/bilibili/1920263354
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001993203074hx5yn9.jpg" group-title="萌宠", 交友聊天，组队dd
 https://mursor.ottiptv.cc/bilibili/1993203074
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000004036018gxappz.jpg" group-title="生活杂谈", 星战收尾
-https://mursor.ottiptv.cc/bilibili/4036018
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000023594859uxo940.jpg" group-title="手工绘画", 正极画材专场
-https://mursor.ottiptv.cc/bilibili/23594859
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001991389050u1islq.jpg" group-title="萌宠", 流水之音海底美妙景色解压放松 自然之音
-https://mursor.ottiptv.cc/bilibili/1991389050
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000024687586tbmbil.jpg" group-title="手工绘画", 摸鱼
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350017386772914s0asd.jpg" group-title="手工绘画", 看我不动就直接骂死我
+https://mursor.ottiptv.cc/bilibili/1738677291
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000025609794fnj827.jpg" group-title="生活杂谈", 无数难眠的夜晚
+https://mursor.ottiptv.cc/bilibili/25609794
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350000249823834gve7m.jpg" group-title="沉浸体验", 萌新驾到，多多指教！
+https://mursor.ottiptv.cc/bilibili/24982383
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001820334943k8y46k.jpg" group-title="沉浸体验", 雨声深度睡眠
+https://mursor.ottiptv.cc/bilibili/1820334943
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350000251442812qffcb.jpg" group-title="手工绘画", 五伏第242图|3D 打印建模定制涂装
+https://mursor.ottiptv.cc/bilibili/25144281
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000000173218ybzbnt.jpg" group-title="手工绘画", 小漫画家开始了她勤奋的一天
+https://mursor.ottiptv.cc/bilibili/173218
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000022704763hczf8v.jpg" group-title="萌宠", 布偶 全国可以去新家
+https://mursor.ottiptv.cc/bilibili/22704763
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001842743447razgrv.jpg" group-title="萌宠", 想你～念你～
+https://mursor.ottiptv.cc/bilibili/1842743447
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000022160228za2h2s.jpg" group-title="户外", 美亚柏科培训大楼海景直播
+https://mursor.ottiptv.cc/bilibili/22160228
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350000088629734o51dd.jpg" group-title="手工绘画", 画画
+https://mursor.ottiptv.cc/bilibili/8862973
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000002498946v0rwrm.jpg" group-title="萌宠", 发送弹幕控制摄像头看哈基mini
+https://mursor.ottiptv.cc/bilibili/2498946
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000022325806pnyhoc.jpg" group-title="户外", 高崖子天文台全天系统
+https://mursor.ottiptv.cc/bilibili/22325806
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001812801535orijub.jpg" group-title="情感杂谈", 差一点就……
+https://mursor.ottiptv.cc/bilibili/1812801535
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000026334331mwezyk.jpg" group-title="手工绘画", 磨洋工
+https://mursor.ottiptv.cc/bilibili/26334331
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe0819063500002387676075nlhz.jpg" group-title="手工绘画", 钢笔淡彩入门与精通
+https://mursor.ottiptv.cc/bilibili/23876760
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000000536530i9xzgm.jpg" group-title="手工绘画", 喜欢画画拦不住的
+https://mursor.ottiptv.cc/bilibili/536530
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000024990813ozzhbs.jpg" group-title="萌宠", 云喂鱼-点赞投喂（限量）
+https://mursor.ottiptv.cc/bilibili/24990813
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001866756265z60d4q.jpg" group-title="沉浸体验", 电子安眠药，深夜雨声白噪音宠
+https://mursor.ottiptv.cc/bilibili/1866756265
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000004587141m93zr1.jpg" group-title="萌宠", 【屁鸠和胖鸠】唱跳Po9
+https://mursor.ottiptv.cc/bilibili/4587141
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001816496787a8e12c.jpg" group-title="生活杂谈", 爱做梦的鸟
+https://mursor.ottiptv.cc/bilibili/1816496787
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000025678132ktqd1p.jpg" group-title="沉浸体验", 睡不着，就进来冥想助眠，深度放松。
+https://mursor.ottiptv.cc/bilibili/25678132
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350018054031289tj5gy.jpg" group-title="手工绘画", 不动就是寄了
+https://mursor.ottiptv.cc/bilibili/1805403128
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350019932011426y4ny7.jpg" group-title="沉浸体验", 萌新驾到，多多指教！
+https://mursor.ottiptv.cc/bilibili/1993201142
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001974514313nrj93x.jpg" group-title="运动体育", 你的减肥搭子
+https://mursor.ottiptv.cc/bilibili/1974514313
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000024687586bvymd1.jpg" group-title="手工绘画", 摸鱼
 https://mursor.ottiptv.cc/bilibili/24687586
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000022446951u49lbs.jpg" group-title="运动体育", 业余爱好者必学布局-象棋大师赵玮
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350018613713932zux6k.jpg" group-title="手工绘画", 0基础学画画  副业赚米
+https://mursor.ottiptv.cc/bilibili/1861371393
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001884960678fe1ktz.jpg" group-title="户外", 鸣沙山月牙泉实时直播
+https://mursor.ottiptv.cc/bilibili/1884960678
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001812800129bbilsf.jpg" group-title="生活杂谈", roblox
+https://mursor.ottiptv.cc/bilibili/1812800129
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350000276630596rlr5q.jpg" group-title="电子榨菜", 八月芜湖奇瑞星途风云特惠来袭！速来捡漏!
+https://mursor.ottiptv.cc/bilibili/27663059
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000000127058jdznvl.jpg" group-title="手工绘画", 失踪人口回归，大人再爱我一次
+https://mursor.ottiptv.cc/bilibili/127058
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000007431645dmmdv7.jpg" group-title="萌宠", 【大黄和小灰】赛博兔兔窝
+https://mursor.ottiptv.cc/bilibili/7431645
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000022446951dr0tkm.jpg" group-title="运动体育", 业余爱好者必学布局-象棋大师赵玮
 https://mursor.ottiptv.cc/bilibili/22446951
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000031726594ejow00.jpg" group-title="萌宠", 邓兔的悖论~
-https://mursor.ottiptv.cc/bilibili/31726594
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000010727930avg8bf.jpg" group-title="手工绘画", 监工监工
-https://mursor.ottiptv.cc/bilibili/10727930
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000006641059loujh9.jpg" group-title="手工绘画", 连麦看朋友玩魔审
-https://mursor.ottiptv.cc/bilibili/6641059
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe0819043500194831179871z5k1.jpg" group-title="情感杂谈", 情感塔罗，其他各种都可以问
-https://mursor.ottiptv.cc/bilibili/1948311798
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000003587534hsg6hx.jpg" group-title="萌宠", 给朋友看（看不见弹幕
-https://mursor.ottiptv.cc/bilibili/3587534
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000012234154czoacd.jpg" group-title="萌宠", 仓鼠晚安
-https://mursor.ottiptv.cc/bilibili/12234154
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000030639327a5e0rr.jpg" group-title="户外", 冷却塔恐龙抗狼
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000000217600qetv1s.jpg" group-title="手工绘画", 我爱画画
+https://mursor.ottiptv.cc/bilibili/217600
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350000324529777fd44e.jpg" group-title="美食", 今天洗头了，打败全国99%的主播
+https://mursor.ottiptv.cc/bilibili/32452977
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000003104457xy8d7h.jpg" group-title="手工绘画", 3DMAX卡通房子建模教学
+https://mursor.ottiptv.cc/bilibili/3104457
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350018498240760dumjn.jpg" group-title="沉浸体验", 一起来沉浸睡觉吧！
+https://mursor.ottiptv.cc/bilibili/1849824076
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350000245568672if1vp.jpg" group-title="手工绘画", 零基础学水彩风景绘画
+https://mursor.ottiptv.cc/bilibili/24556867
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000030639327an1jsn.jpg" group-title="户外", 冷却塔恐龙抗狼
 https://mursor.ottiptv.cc/bilibili/30639327
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001819584983k1b3sl.jpg" group-title="手工绘画", 带徒3D建模  接稿赚米
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001819584983m4g75u.jpg" group-title="手工绘画", 带徒3D建模  接稿赚米
 https://mursor.ottiptv.cc/bilibili/1819584983
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435000024253675ujp70c.jpg" group-title="生活杂谈", 突然想听周杰伦
-https://mursor.ottiptv.cc/bilibili/24253675
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001738168147zov7ut.jpg" group-title="手工绘画", 画到早上
-https://mursor.ottiptv.cc/bilibili/1738168147
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081904350000225078156mpsrk.jpg" group-title="手工绘画", 复活了画个稿吧
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000009119922fybkrr.jpg" group-title="萌宠", 猫猫队在线拆家/打滚儿/追跑打闹/睡大觉
+https://mursor.ottiptv.cc/bilibili/9119922
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000006589350tzzvdk.jpg" group-title="萌宠", 治愈小草坪,主养草(穷玩)，工具鱼虾螺
+https://mursor.ottiptv.cc/bilibili/6589350
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000023913893qqnn4n.jpg" group-title="手工绘画", voron 2.4 3D打印ing
+https://mursor.ottiptv.cc/bilibili/23913893
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000005098099uubzb3.jpg" group-title="手工绘画", 开一把
+https://mursor.ottiptv.cc/bilibili/5098099
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000022507815ni6nvt.jpg" group-title="手工绘画", 复活了画个稿吧
 https://mursor.ottiptv.cc/bilibili/22507815
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190435001985115444zk7v2t.jpg" group-title="手工绘画", 画画练习
-https://mursor.ottiptv.cc/bilibili/1985115444
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001845375133zxaigj.jpg" group-title="生活杂谈", 我爱修图！！！（假的）
+https://mursor.ottiptv.cc/bilibili/1845375133
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe0819063500002689730840nn98.jpg" group-title="手工绘画", 摸——鱼——画——稿——
+https://mursor.ottiptv.cc/bilibili/26897308
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000025016780mvrg9p.jpg" group-title="手工绘画", 零基础学高级灰色彩
+https://mursor.ottiptv.cc/bilibili/25016780
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000030129063d2l82i.jpg" group-title="美食", 下一单介绍闺蜜？
+https://mursor.ottiptv.cc/bilibili/30129063
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000003587534ibg0w0.jpg" group-title="萌宠", 给朋友看（看不见弹幕
+https://mursor.ottiptv.cc/bilibili/3587534
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001931559221c7y3vd.jpg" group-title="生活杂谈", 超级无敌小潮二创
+https://mursor.ottiptv.cc/bilibili/1931559221
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350000144568194m3gkf.jpg" group-title="手工绘画", 底层萌新学画画（
+https://mursor.ottiptv.cc/bilibili/14456819
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000004036018ax1613.jpg" group-title="生活杂谈", 星战收尾
+https://mursor.ottiptv.cc/bilibili/4036018
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000025007496tzqq6t.jpg" group-title="手工绘画", 我的人体小宝贝儿
+https://mursor.ottiptv.cc/bilibili/25007496
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001985117844jo8prp.jpg" group-title="手工绘画", 首次开播，请多关照！
+https://mursor.ottiptv.cc/bilibili/1985117844
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001948311798gnhiw8.jpg" group-title="情感杂谈", 情感塔罗，其他各种都可以问
+https://mursor.ottiptv.cc/bilibili/1948311798
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350000315860884jwj5s.jpg" group-title="沉浸体验", 嘘……无用之用。
+https://mursor.ottiptv.cc/bilibili/31586088
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350000035196387cnl2f.jpg" group-title="萌宠", 蚂蚁饲养的日常
+https://mursor.ottiptv.cc/bilibili/3519638
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000026987744z1pggv.jpg" group-title="手工绘画", chat要安静因为我看不到TnT
+https://mursor.ottiptv.cc/bilibili/26987744
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe0819063500002390440317loqq.jpg" group-title="手工绘画", k会帧（测试下）
+https://mursor.ottiptv.cc/bilibili/23904403
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000031726594ieb1wk.jpg" group-title="萌宠", 邓兔的悖论~
+https://mursor.ottiptv.cc/bilibili/31726594
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000022196207twkvs7.jpg" group-title="手工绘画", 早起的葭彼君迷迷糊糊地摸同人图
+https://mursor.ottiptv.cc/bilibili/22196207
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000002858418318ftv.jpg" group-title="手工绘画", 早起的虫儿被鸟吃
+https://mursor.ottiptv.cc/bilibili/2858418
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000030206484jkrk9i.jpg" group-title="户外", SHMN 浙西流星监测
+https://mursor.ottiptv.cc/bilibili/30206484
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000023689567cahk04.jpg" group-title="萌宠", 24H云吸猫—美短猫舍
+https://mursor.ottiptv.cc/bilibili/23689567
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350019913890509nwizi.jpg" group-title="萌宠", 流水之音海底美妙景色解压放松 自然之音
+https://mursor.ottiptv.cc/bilibili/1991389050
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001853549781o5e2md.jpg" group-title="时尚", 珠宝源头 工厂直销  支持定制
+https://mursor.ottiptv.cc/bilibili/1853549781
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000010727930qe4676.jpg" group-title="手工绘画", 监工监工
+https://mursor.ottiptv.cc/bilibili/10727930
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350018617878491w5uzw.jpg" group-title="电子榨菜", 19元222G超大流量卡手机卡全国通用
+https://mursor.ottiptv.cc/bilibili/1861787849
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001772502205c4kyp7.jpg" group-title="手工绘画", 睡不着爬起来画画
+https://mursor.ottiptv.cc/bilibili/1772502205
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001949986548l671k8.jpg" group-title="手工绘画", 我画画慢的和爬似的
+https://mursor.ottiptv.cc/bilibili/1949986548
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000001297851is6fb3.jpg" group-title="手工绘画", 久违了
+https://mursor.ottiptv.cc/bilibili/1297851
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe0819063500195154823337pfvo.jpg" group-title="沉浸体验", 超好吃的腊香肠
+https://mursor.ottiptv.cc/bilibili/1951548233
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000000467815aper9i.jpg" group-title="手工绘画", 无聊不知道干什么中
+https://mursor.ottiptv.cc/bilibili/467815
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000010981144wc491m.jpg" group-title="手工绘画", 画一会
+https://mursor.ottiptv.cc/bilibili/10981144
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635001735730063v5i1x4.jpg" group-title="生活杂谈", 滑铲081925
+https://mursor.ottiptv.cc/bilibili/1735730063
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe081906350000235948595oeb63.jpg" group-title="手工绘画", 正极画材专场
+https://mursor.ottiptv.cc/bilibili/23594859
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000027184859jm20dq.jpg" group-title="萌宠", 看鸟(早晨傍晚鸟多)偶尔有松鼠
+https://mursor.ottiptv.cc/bilibili/27184859
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe0819063500003038145633ditb.jpg" group-title="萌宠", 小鸡努力赚粮 亚马逊，折衷，金太阳 海外
+https://mursor.ottiptv.cc/bilibili/30381456
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000000099817wcwqm2.jpg" group-title="手工绘画", 生活太顺就画画
+https://mursor.ottiptv.cc/bilibili/99817
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000024351780bs6z6w.jpg" group-title="手工绘画", 谢谢你来看我哦~
+https://mursor.ottiptv.cc/bilibili/24351780
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe08190635000010893000iu6uxs.jpg" group-title="沉浸体验", 上工！
+https://mursor.ottiptv.cc/bilibili/10893000
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe0819063500003036130311h9v3.jpg" group-title="手工绘画", 自律自律自律啊啊啊啊啊！！！！！
+https://mursor.ottiptv.cc/bilibili/30361303
