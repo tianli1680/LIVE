@@ -1,7 +1,7 @@
-名字: Upstream Sync
+name: Upstream Sync
 
 permissions:
-  contents: 撰写
+  contents: write
 
 on:
   schedule:
@@ -10,17 +10,17 @@ on:
 
 jobs:
   sync_with_upstream:
-    名字: Sync with Upstream
+    name: Sync with Upstream
     runs-on: ubuntu-latest
     if: github.event.repository.fork  # 只在fork的仓库运行
 
     steps:
-      - 名字: Checkout target repo
+      - name: Checkout target repo
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - 名字: Sync Upstream
+      - name: Sync Upstream
         id: sync
         uses: aormsby/Fork-Sync-With-Upstream-action@v3.4
         with:
@@ -30,7 +30,7 @@ jobs:
           target_sync_branch: main
           test_mode: false
 
-      - 名字: Handle failure
+      - name: Handle failure
         if: failure() && steps.sync.outcome == 'failure'
         run: |
           echo "::error::同步失败，可能需要手动同步fork仓库"
