@@ -1,34 +1,41 @@
 名字: Upstream Sync
 
 permissions:
-    contents: 撰写
+  contents: 撰写
 
 on:
-    schedule:
-        - cron: '0 */2 * * *'        # 每 2 小时触发（UTC）
-    workflow_dispatch:
+  schedule:
+    - cron: '0 */2 * * *'  # 每2小时在UTC时间的整点运行
+  workflow_dispatch:  # 允许手动触发
 
 jobs:
-    sync_with_upstream:
-        名字: Sync with Upstream
-        runs-on: ubuntu-latest
-        if: ${{ github.event.repository.fork }}
+  sync_with_upstream:
+    名字: Sync with Upstream
+    runs-on: ubuntu-latest
+    if: github.event.repository.fork  # 只在fork的仓库运行
 
-        steps:
-            - 名字: Checkout target repo
-              uses: actions/checkout@v3
+    steps:
+      - 名字: Checkout target repo
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-            - 名字: Sync Upstream
-              uses: aormsby/Fork-Sync-With-Upstream-action@v3.4
-              with:
-                  target_repo_token: ${{ secrets.GITHUB_TOKEN }}
-                  upstream_sync_repo: mursor1985/LIVE
-                  upstream_sync_branch: main
-                  target_sync_branch: main
-                  test_mode: false
+      - 名字: Sync Upstream
+        id: sync
+        uses: aormsby/Fork-Sync-With-Upstream-action@v3.4
+        with:
+          target_repo_token: ${{ secrets.GITHUB_TOKEN }}
+          upstream_sync_repo: mursor1985/LIVE
+          upstream_sync_branch: main
+          target_sync_branch: main
+          test_mode: false
 
-            - 名字: Check for Failure
-              if: failure()
-              run: |
-                  echo "[Error] Due to a change in the workflow file of the upstream repository, GitHub has automatically suspended the scheduled automatic update. You need to manually sync your fork."
-                  exit 1
+      - 名字: Handle failure
+        if: failure() && steps.sync.outcome == 'failure'
+        run: |
+          echo "::error::同步失败，可能需要手动同步fork仓库"
+          echo "可能的原因:"
+          echo "1. 上游仓库结构变更"
+          echo "2. 合并冲突"
+          echo "3. 权限问题"
+          # 不退出，仅记录错误信息
